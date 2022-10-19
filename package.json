@@ -13,7 +13,7 @@
     "ประกันรถยนต์ชั้น 3+",
     "ประกันรถยนต์ชั้น 3"
   ],
-  "repository": "https://github.com/atom/carinsurance",
+  "repository": "https://github.com/seolink54/carinsurance.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
